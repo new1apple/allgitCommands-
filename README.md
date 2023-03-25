@@ -1,4 +1,4 @@
-# allgitCommands-
+# VITMAS_Task1/21BCE3997/allgitCommands-
  Some of the most commonly used Git commands with their syntax and uses:
 
 1.git init
